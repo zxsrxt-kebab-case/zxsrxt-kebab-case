@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zxsrxt-kebab-case/](https://github.com/zxsrxt-kebab-case/)
+- 👨‍💻 All of my projects are available at [my profile](https://github.com/zxsrxt-kebab-case/)
 
 - 💬 Ask me about **nothing**
 
@@ -16,6 +16,8 @@
 - ⚡ Fun fact **Im beginner in this sphere ^_^**
 
 - 🤙 Proof of my skills on [this page](https://github.com/zxsrxt-kebab-case/lohpost-cheat)
+
+- 🧸 Knowledge: c++, c, cmake, python, js, html, Logos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
