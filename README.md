@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxsrxt-kebab-case&label=Profile%20views&color=0e75b6&style=flat" alt="zxsrxt-kebab-case" /> </p>
 
-- 🔭 I’m currently working on [my cheat](https://github.com/zxsrxt-kebab-case/bpm-calc)
+- 🔭 I’m currently working on some shit(will be later)
 
 - 🌱 I’m currently learning **c++**
 
@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **t.me/addr_t**
 
-- ⚡ Fun fact **Im neewbie ^_^**
+- ⚡ Fun fact **Im beginner in this sphere ^_^**
+
+- 🤙 Proof of my skills on [this page](https://github.com/zxsrxt-kebab-case/lohpost-cheat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
