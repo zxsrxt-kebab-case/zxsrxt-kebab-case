@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **t.me/addr_t**
 
-- ⚡ Fun fact **Im beginner in this sphere ^_^**
+- ⚡ Fun fact **4 yrs of developing**
 
 - 🤙 Proof of my skills on [this page](https://github.com/zxsrxt-kebab-case/lohpost-cheat)
 
